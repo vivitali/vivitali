@@ -34,7 +34,6 @@ With 9+ years in software development, I specialize in crafting impactful soluti
 - AWS Cloud Solutions Architect
 - AWS Certified Developer Associate (DVA-C02)
 - Solution Architecture 1.0
-- Exam 480: Programming in HTML5 with JavaScript and CSS3
 - Building Data Lakes on AWS
 
 ---
