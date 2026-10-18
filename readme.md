@@ -6,7 +6,7 @@
 ---
 
 🚀 **About Me**  
-With 9+ years in software development, I specialize in crafting impactful solutions across healthcare, risk management, and community engagement. I have a strong focus on front-end technologies (React, TypeScript, Angular), and expanding expertise in Node.js and Go for backend development. I thrive on collaboration, innovation, and mentoring teams to deliver high-quality, user-centric products.
+With over 10 years in software development, I specialize in crafting impactful solutions across healthcare, risk management, and community engagement. I have a strong focus on front-end technologies (React, TypeScript, Angular), and expanding expertise in Node.js and Go for backend development. I thrive on collaboration, innovation, and mentoring teams to deliver high-quality, user-centric products.
 
 ---
 
